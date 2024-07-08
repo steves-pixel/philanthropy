@@ -5,8 +5,6 @@ import { Button } from "antd";
 
 import lighthouse from '@lighthouse-web3/sdk'
 import axios from 'axios';
-import Navbar from "../../Course/Nav";
-
 import { Modal, Input, Tooltip } from 'antd'
 import { notification } from 'antd';
 const apiKey = "b3b18111.271ba6addd39409a80ac3fee4d78070c" 
