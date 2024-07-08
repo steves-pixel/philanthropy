@@ -6,9 +6,9 @@ dataSources:
     name: Contract
     network: fuji
     source:
-      address: "0xaBF1D2343ef03529690aBeed19F41eC37686565A"
+      address: "0x7e67779e24877a7f20AEc9E077316f27376507D6"
       abi: Contract
-      startBlock: 34733834
+      startBlock: 34734091
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.7
