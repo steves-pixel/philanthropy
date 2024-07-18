@@ -36,3 +36,6 @@ module.exports = {
       ],
     },
   }
+
+
+  //  For verify run this command  npx hardhat  verify --network scrollSepolia   0xB94653D869eD7b388b59beb69905670d0A834B7d

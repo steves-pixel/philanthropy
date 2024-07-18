@@ -51,7 +51,7 @@ const Buy = ({ state }) => {
      
 
 
-    const transaction = await contract.buyChai(name, message,cid1,amount);
+    const transaction = await contract.buyChai(name, message );
     await transaction.wait();
 
   
